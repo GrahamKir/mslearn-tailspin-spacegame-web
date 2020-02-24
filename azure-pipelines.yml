@@ -36,6 +36,7 @@ steps:
   displayName: 'Restore project dependencies'
   inputs:
     command: 'restore'
+    arguments: '--no-restore --configuration $(buildConfiguration)'
     projects: '**/*.csproj'
 
 - task: DotNetCoreCLI@2
