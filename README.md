@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-grahamkir&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-grahamkir)
+
 [![Build Status](https://dev.azure.com/kirstengraham52/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/GrahamKir.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kirstengraham52/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
